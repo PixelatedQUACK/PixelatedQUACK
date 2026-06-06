@@ -35,7 +35,7 @@
 
 
 <p>
-  <img src="./gifs/elden.gif" alt="Profile Animation" align="right" width="300" style="max-width: 100%;">
+  <img src="./gifs/elden.gif" alt="Profile Animation" align="right" width="270" style="max-width: 100%;">
   
   <b>⚔️Hobbies</b><br><br>
   I do game development in my spare time, working on project that will eventually<br>
