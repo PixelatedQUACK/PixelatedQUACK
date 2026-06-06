@@ -23,11 +23,11 @@
     <td>
       <p>
         <b>Programming Languages Learned</b><br>
-        • Python<br>
-        • C++<br>
-        • C#<br>
-        • HTML<br>
-        • CSS
+        • <img src="./gifs/python.png" width="16" height="16" valign="middle"> Python<br>
+        • <img src="./gifs/c++.png" width="16" height="16" valign="middle"> C++<br>
+        • <img src="./gifs/csharp.png" width="16" height="16" valign="middle"> C#<br>
+        • <img src="./gifs/html.png" width="16" height="16" valign="middle"> HTML<br>
+        • <img src="./gifs/css.png" width="16" height="16" valign="middle"> CSS
       </p>
     </td>
   </tr>
