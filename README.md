@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./gifs/Katron.png" alt="Profile Animation" align="right" width="300" style="max-width: 100%;">
+  <img src="./gifs/Katron.png" alt="Profile Animation" align="right" width="200" style="max-width: 100%;">
 
   <!-- Your Profile Content on the left side -->
   <b>👋 I'm Ronald!</b><br>
