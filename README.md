@@ -6,8 +6,8 @@
   <i>Computer Engineer / 3rd Year Student</i><br><br>
   I am a Computer Engineering student passionate about hardware, programming, and system design.<br><br>
   • ✨ <b>Current Rank:</b> 3rd Year Student<br>
-  • 🌱 Learning new technologies everyday.<br>
-  • 🚀 Passionate about building impactful projects.
+  • 🌱 Willing to Learn new technology everytime<br>
+  • 🚀 Can work under pressure.
 </p>
 
 <table>
