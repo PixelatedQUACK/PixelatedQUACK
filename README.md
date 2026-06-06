@@ -22,7 +22,7 @@
     </td>
     <td>
       <p>
-        <b>Programming Languages Learned</b>
+        <b>Programming Languages Learned</b><br>
         • <img src="./gifs/python.png" width="16" height="16" valign="middle"> Python<br>
         • <img src="./gifs/c++.png" width="16" height="16" valign="middle"> C++<br>
         • <img src="./gifs/csharp.png" width="16" height="16" valign="middle"> C#<br>
@@ -34,7 +34,10 @@
 </table
 
 
-<p><b>⚔️Hobbies</b><br><br>
+<p>
+  <img src="./gifs/elden.gif" alt="Profile Animation" align="right" width="300" style="max-width: 100%;">
+  
+  <b>⚔️Hobbies</b><br><br>
   I do game development in my spare time, working on project that will eventually<br>
   be deployed in steam within a couple of years. I am also learning to do pixel art for<br>
   future art projects and to implement it for my game developent project.
