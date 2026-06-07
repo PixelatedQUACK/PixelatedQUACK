@@ -35,7 +35,6 @@
 
 
 <p>
-  <img src="./gifs/agenscortisol.gif" alt="Profile Animation" align="left" width="200" style="max-width: 100%;">
   
   <b>⚔️Hobbies</b><br><br>
   | I do game development in my spare time, working on project that will eventually<br>
