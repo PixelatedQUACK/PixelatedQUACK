@@ -31,7 +31,7 @@
       </p>
     </td>
   </tr>
-</table
+</table>
 
 
 <p>
@@ -43,6 +43,6 @@
   future art projects and to implement it for my game developent project.
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PixelatedQUACK&theme=dark&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
+<h4><b><|⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<i>STATS</i>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘|></b></h4>
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedQUACK&layout=compact&theme=blue-green)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PixelatedQUACK&theme=onedark-duo&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
