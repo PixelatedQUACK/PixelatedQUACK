@@ -45,3 +45,10 @@
 <h4><b><|⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<i>STATS</i>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘|></b></h4>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PixelatedQUACK&theme=onedark-duo&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
+
+<p>
+  <img src="./gifs/eyecut.gif" alt="Profile Animation" align="left" width="200" style="max-width: 100%;">
+  <b><|⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<i>Languages</i>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘|></b>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedQUACK&theme=tokyonight)
