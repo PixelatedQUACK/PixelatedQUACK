@@ -48,7 +48,7 @@
 
 <p>
   <img src="./gifs/eyecut.gif" alt="Profile Animation" align="left" width="200" style="max-width: 100%;">
-  <b><|⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<i>Languages</i>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘|></b>
+  <b><|⫘⫘⫘⫘⫘<i>Languages</i>⫘⫘⫘⫘⫘|></b>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedQUACK&theme=tokyonight)
