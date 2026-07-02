@@ -37,9 +37,9 @@
 <p>
   
   <b>⚔️Hobbies</b><br><br>
-  | I do game development in my spare time, working on project that will eventually<br>
-  | be deployed in steam within a couple of years. I am also learning to do pixel art for<br>
-  | future art projects and to implement it for my game developent project.
+  I do game development in my spare time, working on project that will eventually<br>
+  be deployed in steam within a couple of years. I am also learning to do pixel art for<br>
+  future art projects and to implement it for my game developent project.
 </p>
 
 <h4><b><|⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘<i>STATS</i>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘|></b></h4>
@@ -50,5 +50,3 @@
   <img src="./gifs/eyecut.gif" alt="Profile Animation" align="left" width="200" style="max-width: 100%;">
   <b><|⫘⫘⫘⫘⫘<i>Languages</i>⫘⫘⫘⫘⫘|></b>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedQUACK&theme=tokyonight)
