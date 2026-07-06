@@ -51,4 +51,4 @@
   <b><|⫘⫘⫘⫘⫘<i>Languages</i>⫘⫘⫘⫘⫘|></b>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelatedQUACK&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=PixelatedQUACK&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=PixelatedQUACK&langs_count=4&theme=transparent)
