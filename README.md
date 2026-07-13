@@ -54,5 +54,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=PixelatedQUACK&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=PixelatedQUACK&langs_count=4&theme=transparent)
 
 <p>
-  To check out more Portolio will be comming soon 2x soon
+  To check out more Portolio will be comming soon 2x soon 3x soon
 </p>
